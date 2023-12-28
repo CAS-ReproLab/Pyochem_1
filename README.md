@@ -21,7 +21,7 @@ Learn fundamentals of scientific computing for biochemistry using Jupyter notebo
 11. **Simulation**: use the power of generating functions to create model datasets to visualize and improve your hypotheses
 
 ## How to use the .ipynb files:
-- **Note**: All of the following information pertains to Microsoft Windows PCs. I have not tested any of this on a Mac or tablet. The notebooks may be run in Google Colab, but the file input/output process will be different, and some of the dependencies may need to be installed differently.
+- **Note**: All of the following information pertains to Microsoft Windows PCs. I have not tested any of this on a Mac or tablet. The notebooks may be run in Google Colab, but the file input/output process will be different, and some of the dependencies will need to be installed.
 - **Anaconda**: I recommend downloading [Anaconda](https://www.anaconda.com/download) and using the [Anaconda navigator](https://docs.anaconda.com/free/navigator/index.html) to set up your environment.
 - **Dependencies**: You will need to install numpy, matplotlib, pandas, and seaborn. This can be done in anaconda navigator. Be sure to set all of this up in a new environment. These are easily created in the Anaconda navigator.
 - **JupyterLab V. Jupyter Notebook**: I prefer Jupyterlab, which can be installed and launched in the Anaconda navigator. It has more features, and can be set to `dark theme` in the settings. 
