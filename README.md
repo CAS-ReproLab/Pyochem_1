@@ -1,5 +1,5 @@
 # Pyochem_1
-Learn fundamentals of scientific computing for biochemistry using Jupyter notebooks in Python
+Learn fundamentals of scientific computing for biochemistry using Python in Jupyter Notebooks
 
 ## What to Expect: 
 - **.ipynb files**: Each of the files represents a key concept. It consists of a brief explanation, followed by code examples. There are exercises with solutions that follow.
