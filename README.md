@@ -23,7 +23,7 @@ Learn fundamentals of scientific computing for biochemistry using Jupyter notebo
 ## How to use the .ipynb files:
 - **Note**: All of the following information pertains to Microsoft Windows PCs. I have not tested any of this on a Mac or tablet. The notebooks may be run in Google Colab, but the file input/output process will be different, and some of the dependencies will need to be installed.
 - **Anaconda**: I recommend downloading [Anaconda](https://www.anaconda.com/download) and using the [Anaconda navigator](https://docs.anaconda.com/free/navigator/index.html) to set up your environment.
-- **Dependencies**: You will need to install numpy, matplotlib, pandas, and seaborn. This can be done in anaconda navigator. Be sure to set all of this up in a new environment. These are easily created in the Anaconda navigator.
+- **Dependencies**: You will need to install numpy, matplotlib, pandas, and seaborn. This can be done in anaconda navigator. 
 - **JupyterLab V. Jupyter Notebook**: I prefer Jupyterlab, which can be installed and launched in the Anaconda navigator. It has more features, and can be set to `dark theme` in the settings. 
 - **Directories**: I recommend setting up a folder on your desktop, and downloading the .ipynb files into it. Once you have launched JupyterLab, navigate to the folder and open/modify the files as needed.
 
