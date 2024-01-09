@@ -2,7 +2,7 @@
 Learn fundamentals of scientific computing for biochemistry using Python in Jupyter Notebooks
 
 ## What to Expect: 
-- **.ipynb files**: Each of the files represents a key concept. It consists of a brief explanation, followed by code examples. There are exercises with solutions that follow.
+- **.ipynb files**: Each file is a primer on a key concept. It consists of a brief explanation, followed by code examples. There are exercises with solutions that follow.
 - **How to practice**: Read the explanations and examples, pay attention to the syntax. Do the exercises while `peeking` at the examples and solutions as needed. Don't copy/paste solutions. This will result in useable code, but you won't learn anything.  
 - **Comment excessively**: add lots of comments to your exercise solutions to explain what everything does. If you're not sure, use web search and ChatGPT for assistance.
 - **Building a reference**: These files serve as an introduction, but also as a reference to return to in the future when you need to use a specific concept, but may not remember how to use it correctly. 
