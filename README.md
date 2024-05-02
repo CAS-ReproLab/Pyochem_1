@@ -8,7 +8,7 @@ Learn fundamentals of scientific computing for biochemistry using Python in Jupy
 - **Building a reference**: These files serve as an introduction, but also as a reference to return to in the future when you need to use a specific concept, but may not remember how to use it correctly. 
 
 ## Contents:
-1.**00_Start_Here**: Preface to the series and basic use of jupyter notebooks
+1. **00_Start_Here**: Preface to the series and basic use of jupyter notebooks
 2. **01_Syntax**: Basic syntax for creating and storing variables
 3. **02_Libraries**: Importing and using libraries for common scientific computing tasks
 4. **03_Data_Structures**: Basic data structures such as lists and dictionaries
