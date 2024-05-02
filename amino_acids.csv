@@ -1,0 +1,23 @@
+#id,full name,three letter code,single letter code,monoisotopic mass,average mass,composition
+0,Glycine,Gly,G,57.021464,57.05,C2H3NO
+1,Alanine,Ala,A,71.037114,71.08,C3H5NO
+2,Serine,Ser,S,87.032029,87.08,C3H5NO2
+3,Proline,Pro,P,97.052764,97.12,C5H7NO
+4,Valine,Val,V,99.068414,99.13,C5H9NO
+5,Threonine,Thr,T,101.04768,101.11,C4H7NO2
+6,Cysteine,Cys,C,103.00919,103.14,C3H5NOS
+7,Leucine,Leu,L,113.08406,113.16,C6H11NO
+8,Isoleucine,Ile,I,113.08406,113.16,C6H11NO
+9,Asparagine,Asn,N,114.04293,114.1,C4H6N2O2
+10,Aspartic Acid,Asp,D,115.02694,115.09,C4H5NO3
+11,Glutamine,Gln,Q,128.05858,128.13,C5H8N2O2
+12,Lysine,Lys,K,128.09496,128.17,C6H12N2O
+13,Glutamic Acid,Glu,E,129.04259,129.12,C5H7NO3
+14,Methionine,Met,M,131.04048,131.2,C5H9NOS
+15,Histidine,His,H,137.05891,137.14,C6H7N3O
+16,Phenylalanine,Phe,F,147.06841,147.18,C9H9NO
+17,Arginine,Arg,R,156.10111,156.19,C6H12N4O
+18,Tyrosine,Tyr,Y,163.06333,163.17,C9H9NO2
+19,Tryptophan,Trp,W,186.07931,186.21,C11H10N2O
+128,Stop,[*],*,0,0,
+129,Unknown,[X],X,0,0,

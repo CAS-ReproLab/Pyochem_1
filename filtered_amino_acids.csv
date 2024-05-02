@@ -1,0 +1,8 @@
+#id,full name,three letter code,single letter code,monoisotopic mass,average mass,composition
+0,Glycine,Gly,G,57.021464,57.05,C2H3NO
+1,Alanine,Ala,A,71.037114,71.08,C3H5NO
+2,Serine,Ser,S,87.032029,87.08,C3H5NO2
+3,Proline,Pro,P,97.052764,97.12,C5H7NO
+4,Valine,Val,V,99.068414,99.13,C5H9NO
+128,Stop,[*],*,0.0,0.0,
+129,Unknown,[X],X,0.0,0.0,
