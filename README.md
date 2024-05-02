@@ -8,16 +8,16 @@ Learn fundamentals of scientific computing for biochemistry using Python in Jupy
 - **Building a reference**: These files serve as an introduction, but also as a reference to return to in the future when you need to use a specific concept, but may not remember how to use it correctly. 
 
 ## Contents:
-1. **00_Start_Here**: Preface to the series and basic use of jupyter notebooks
-2. **01_Syntax**: Basic syntax for creating and storing variables
-3. **02_Libraries**: Importing and using libraries for common scientific computing tasks
-4. **03_Data_Structures**: Basic data structures such as lists and dictionaries
-5. **04_DataFrames**: More discussion of pandas dataframes for tabular data
-6. **05_File_IO**: Practice importing and exporting files for data science applications
-7. **06_Functions**: How to make efficient and reusable code
-8. **07_Control_Flow**: Learn to automate tasks using logic and conditional statements
-9. **08_Error_Handling**: Learn to build more robust programs
-10. **09_OOP_Classes**: Unlock the power of object oriented programming 
+- **00_Start_Here**: Preface to the series and basic use of jupyter notebooks
+- **01_Syntax**: Basic syntax for creating and storing variables
+- **02_Libraries**: Importing and using libraries for common scientific computing tasks
+- **03_Data_Structures**: Basic data structures such as lists and dictionaries
+- **04_DataFrames**: More discussion of pandas dataframes for tabular data
+- **05_File_IO**: Practice importing and exporting files for data science applications
+- **06_Functions**: How to make efficient and reusable code
+- **07_Control_Flow**: Learn to automate tasks using logic and conditional statements
+- **08_Error_Handling**: Learn to build more robust programs
+- **09_OOP_Classes**: Unlock the power of object oriented programming 
 
 ## How to use the .ipynb files:
 - **Note**: All of the following information pertains to Microsoft Windows PCs. I have not tested any of this on a Mac or tablet. The notebooks may be run in Google Colab, but the file input/output process will be different, and some of the dependencies will need to be installed.
