@@ -1,0 +1,4 @@
+Name,Function,Optimal_pH,ActiveInHumans
+Catalase,Break down hydrogen peroxide,7.0,True
+Amylase,Starch digestion,6.8,True
+Lipase,Fat digestion,8.0,False
